@@ -1,0 +1,62 @@
+{
+  "meses": [
+    {
+      "id": "novembro",
+      "aba": "Novembro",
+      "titulo": "Novembro 2026",
+      "descricao": "Cinco finais de semana de eventos. Em 14 e 15/11 a Rio Radical comemora 11 anos com a Expedição Praia do Aventureiro.",
+      "finaisDeSemana": [
+        { "eventos": [
+          { "data": "2026-11-01", "nome": "Trilha e Rapel ao Amanhecer no Morro Dois Irmãos" },
+          { "data": "2026-11-01", "nome": "Ilha de Palmas – Passeio de Lancha" } ] },
+        { "eventos": [
+          { "data": "2026-11-07", "nome": "Rapel no Rosto do Imperador" },
+          { "data": "2026-11-08", "nome": "Rapel na Cachoeira da Macumba" } ] },
+        { "destaque": true, "eventos": [
+          { "data": "2026-11-14", "fim": "2026-11-15", "nome": "Expedição Praia do Aventureiro", "obs": "Luau na praia · 11 anos Rio Radical" } ] },
+        { "eventos": [
+          { "data": "2026-11-21", "nome": "Rapel e Pêndulo na Pedra da Tartaruga" },
+          { "data": "2026-11-22", "nome": "Rapel na Pedra do Pontal" } ] },
+        { "eventos": [
+          { "data": "2026-11-28", "nome": "Rapel na Enseada do Bananal" },
+          { "data": "2026-11-29", "nome": "Trilha e Rapel ao Amanhecer no Morro Dois Irmãos" } ] }
+      ]
+    },
+    {
+      "id": "dezembro",
+      "aba": "Dezembro",
+      "titulo": "Dezembro 2026",
+      "descricao": "Doze eventos em quatro finais de semana, de 05 a 27/12.",
+      "finaisDeSemana": [
+        { "eventos": [
+          { "data": "2026-12-05", "nome": "Rapel e Pêndulo na Pedra da Tartaruga" },
+          { "data": "2026-12-06", "nome": "Rapel no Balão" } ] },
+        { "eventos": [
+          { "data": "2026-12-12", "nome": "Trilha e Rapel ao Amanhecer no Morro Dois Irmãos" },
+          { "data": "2026-12-12", "nome": "Mergulho em Arraial" },
+          { "data": "2026-12-13", "nome": "Rapel na Cachoeira do Garrafão" } ] },
+        { "eventos": [
+          { "data": "2026-12-19", "nome": "Rapel na Enseada do Bananal" },
+          { "data": "2026-12-20", "nome": "Rapel na Cachoeira do Mendanha" },
+          { "data": "2026-12-20", "nome": "Bate e Volta na Serrinha do Alambari" } ] },
+        { "eventos": [
+          { "data": "2026-12-26", "nome": "Rapel e Pêndulo na Pedra da Tartaruga" },
+          { "data": "2026-12-26", "nome": "Ilha de Palmas – Passeio de Lancha" },
+          { "data": "2026-12-27", "nome": "Trilha e Rapel ao Amanhecer no Morro Dois Irmãos" },
+          { "data": "2026-12-27", "nome": "Rapel na Cachoeira da Macumba" } ] }
+      ]
+    }
+  ],
+  "expedicoes": [
+    { "nome": "São Thomé das Letras", "inicio": "2027-04-16", "preco": 1100 },
+    { "nome": "Chapada dos Veadeiros", "inicio": "2027-05-27", "preco": 2990 },
+    { "nome": "Imersão nos Lençóis Maranhenses", "inicio": "2027-06-17", "fim": "2027-06-21", "preco": 3499, "obs": "Quem reservar em 2026 pode parcelar no PIX até maio de 2027." },
+    { "nome": "Ibitipoca", "inicio": "2027-07-30", "preco": 1100 },
+    { "nome": "Chapada das Mesas", "inicio": "2027-09-03", "preco": 2990 }
+  ],
+  "todosOsDias": [
+    "Day Use Angra dos Reis", "Passeio para Ilha da Gigóia", "Passeio de Veleiro", "Passeio de Jetski",
+    "Trilhas: Pedra do Telégrafo, Pedra da Gávea, Pedra Bonita, Morro Dois Irmãos", "Tour pelo RJ", "Voo de Helicóptero",
+    "Voo de Asa Delta e Parapente", "Voo de Parasail"
+  ]
+}
