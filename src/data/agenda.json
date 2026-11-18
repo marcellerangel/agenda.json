@@ -26,7 +26,7 @@
       "id": "dezembro",
       "aba": "Dezembro",
       "titulo": "Dezembro 2026",
-      "descricao": "Doze eventos em quatro finais de semana, de 05 a 27/12.",
+      "descricao": "Onze eventos em quatro finais de semana, de 05 a 27/12.",
       "finaisDeSemana": [
         { "eventos": [
           { "data": "2026-12-05", "nome": "Rapel e Pêndulo na Pedra da Tartaruga" },
@@ -37,8 +37,7 @@
           { "data": "2026-12-13", "nome": "Rapel na Cachoeira do Garrafão" } ] },
         { "eventos": [
           { "data": "2026-12-19", "nome": "Rapel na Enseada do Bananal" },
-          { "data": "2026-12-20", "nome": "Rapel na Cachoeira do Mendanha" },
-          { "data": "2026-12-20", "nome": "Bate e Volta na Serrinha do Alambari" } ] },
+          { "data": "2026-12-20", "nome": "Rapel na Cachoeira do Mendanha" } ] },
         { "eventos": [
           { "data": "2026-12-26", "nome": "Rapel e Pêndulo na Pedra da Tartaruga" },
           { "data": "2026-12-26", "nome": "Ilha de Palmas – Passeio de Lancha" },
